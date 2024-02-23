@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Mark's Bookdown Book"
+author: "Mark Cooper"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
